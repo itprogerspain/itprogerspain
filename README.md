@@ -28,6 +28,9 @@ Unfortunately, I haven’t worked on any real-world projects yet, so I’d like 
 - [Aeropuerto](https://github.com/itprogerspain/Aeropuerto) - A Python application that manages the assignment of slots for flights at an airport.  
 - More projects in progress!
 
+## Let’s Connect
+- 📧 Email: itprogerspain@gmail.com
+
 Thanks for visiting my profile! 🚀
 
 
