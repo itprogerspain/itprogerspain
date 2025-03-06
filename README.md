@@ -12,7 +12,7 @@ I’ve studied and am familiar with the following technologies, though I’m sti
 
 - **Languages & Frameworks**: Python, Python OOP, Django, Flask  
 - **Data Tools**: Pandas, NumPy, Matplotlib  
-- **Other**: Postman, SQL, Docker  
+- **Other**: Postman, SQL(is still in progress), Docker(is still in progress)  
 
 ### Tools I Use
 - PyCharm  
