@@ -13,7 +13,7 @@ Every day, my passion for Python grows stronger, and I’m ready to pursue it wh
 I’ve studied and am familiar with the following technologies, though I’m still building my practical experience:
 - **Languages & Frameworks**: Python, Python OOP, Django, Flask  
 - **Data Tools**: Pandas, NumPy, Matplotlib  
-- **Other**: Postman, SQL (is still in progress), Docker (is still in progress), working with third-party APIs  
+- **Other**: Postman, SQL (is still in progress), Docker (is still in progress), working with third-party APIs, HTTP requests, and the `requests` library  
 
 ## Tools I Use
 - PyCharm  
@@ -25,9 +25,8 @@ Unfortunately, I haven’t worked on any real-world projects yet, so I’d like 
 ## My Projects
 - [FlaskEmployeeAPI](https://github.com/itprogerspain/FlaskEmployeeAPI) - A simple REST API built with Flask and Docker.  
 - [GeminiExercise](https://github.com/itprogerspain/GeminiExercise) - A beginner project to practice Python fundamentals, Git basics, and interacting with third-party APIs for large language models (LLMs).  
-- [Aeropuerto](https://github.com/itprogerspain/Aeropuerto) - A Python application that manages the assignment of slots for flights at an airport. 
+- [Aeropuerto](https://github.com/itprogerspain/Aeropuerto) - A Python application that manages the assignment of slots for flights at an airport.  
 - More projects in progress!
-
 
 Thanks for visiting my profile! 🚀
 
