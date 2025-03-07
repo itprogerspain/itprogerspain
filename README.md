@@ -24,7 +24,7 @@ I’ve studied and am familiar with the following technologies, though I’m sti
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SQL (in progress)](https://img.shields.io/badge/-SQL%20(in_progress)-4479A1?style=flat&logo=postgresql&logoColor=white) ![Docker (in progress)](https://img.shields.io/badge/-Docker%20(in_progress)-2496ED?style=flat&logo=docker&logoColor=white) ![Third-party APIs](https://img.shields.io/badge/-Third_party_APIs-6E40C9?style=flat&logo=apiblueprint&logoColor=white) ![HTTP Requests](https://img.shields.io/badge/-HTTP_Requests-EA580C?style=flat&logo=httpie&logoColor=white) ![Requests Library](https://img.shields.io/badge/-Requests-FF5733?style=flat&logo=python&logoColor=white)
   
 ## Tools I Use
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## My Learning Journey
 Unfortunately, I haven’t worked on any real-world projects yet, so I’d like to share some of the educational projects I’ve completed during my learning journey:
