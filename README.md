@@ -15,7 +15,10 @@ Every day, my passion for Python grows stronger, and I’m ready to pursue it wh
 I’ve studied and am familiar with the following technologies, though I’m still building my practical experience:
 - **Languages & Frameworks**: Python, Python OOP, Django, Flask  
 - **Data Tools**: Pandas, NumPy, Matplotlib  
-- **Other**: Postman, SQL (is still in progress), Docker (is still in progress), working with third-party APIs, HTTP requests, and the `requests` library  
+- **Other**: Postman, SQL (is still in progress), Docker (is still in progress), working with third-party APIs, HTTP requests, and the `requests` library
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Tools I Use
 - PyCharm  
