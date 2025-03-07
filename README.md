@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Matrix Code](https://giphy.com/gifs/matrix-code-3o7TKQsVFHE1xS8K7q)
 
 ## About Me
 My name is Elena (Helen), and after many years of working in a job I didn’t love, I’ve decided it’s time for a change. This wasn’t a spontaneous decision—it grew slowly out of the realization that my current field never brought me true satisfaction.
