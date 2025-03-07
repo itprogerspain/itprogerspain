@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-![Matrix Code](https://giphy.com/gifs/matrix-code-3o7TKQsVFHE1xS8K7q)
+![I love coding]([https://giphy.com/gifs/matrix-code-3o7TKQsVFHE1xS8K7q](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk1ZW9mOG9vZmZucHN6MGViNmhvNW9xemxrNnJqcmJwYmplcWdocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4l3dds2PKk7lt4tktj/giphy.gif))
 
 ## About Me
 My name is Elena (Helen), and after many years of working in a job I didn’t love, I’ve decided it’s time for a change. This wasn’t a spontaneous decision—it grew slowly out of the realization that my current field never brought me true satisfaction.
