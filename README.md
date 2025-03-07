@@ -1,5 +1,20 @@
 # Hello Everyone! 👋
 
+<div style="font-family: monospace; font-size: 20px; color: #3776AB; overflow: hidden; white-space: nowrap; border-right: 3px solid; width: 0; animation: typing 3s steps(12, end) forwards, blink 0.5s step-end infinite;">
+I love Python
+</div>
+
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+@keyframes blink {
+  from, to { border-color: transparent; }
+  50% { border-color: #3776AB; }
+}
+</style>
+
 ![I love coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxZmx2OGEwdmpkaWhldzZvd29yZGNiaHA5Yms5NmRwM2drbXdleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif)
 
 ## About Me
