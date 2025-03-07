@@ -15,7 +15,7 @@ Every day, my passion for Python grows stronger, and I’m ready to pursue it wh
 I’ve studied and am familiar with the following technologies, though I’m still building my practical experience:
 
 ### Languages & Frameworks
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Python OOP](https://img.shields.io/badge/-Python_OOP-3776AB?style=flat&logo=python&logoColor=white)
 - ![Python OOP](https://img.shields.io/badge/-Python_OOP-3776AB?style=flat&logo=python&logoColor=white)
 - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -34,8 +34,8 @@ I’ve studied and am familiar with the following technologies, though I’m sti
 - ![Requests Library](https://img.shields.io/badge/-Requests-FF5733?style=flat&logo=python&logoColor=white)
   
 ## Tools I Use
-- PyCharm  
-- Visual Studio Code  
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## My Learning Journey
 Unfortunately, I haven’t worked on any real-world projects yet, so I’d like to share some of the educational projects I’ve completed during my learning journey:
