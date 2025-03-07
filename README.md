@@ -3,11 +3,8 @@
 
 ## About Me
 My name is Elena (Helen), and after many years of working in a job I didn’t love, I’ve decided it’s time for a change. This wasn’t a spontaneous decision—it grew slowly out of the realization that my current field never brought me true satisfaction.
-
 As a child, I dreamed of becoming a programmer, and it was Python tutorials on YouTube that reignited that spark. What started as a hobby quickly turned into a deep passion for programming. The more I explored Python, the more I understood that it’s not just a pastime—it’s something bigger. I realized I want to build my professional life around coding.
-
 Since starting my learning journey in December 2023, I’ve been actively studying Python and related technologies. I’m diving into the world of programming with enthusiasm, eager to unlock my potential and discover new opportunities in this exciting field.
-
 Every day, my passion for Python grows stronger, and I’m ready to pursue it wholeheartedly. My goal is to find professional fulfillment and succeed in this new career path. I believe my determination, experience, and love for learning will help me turn this dream into reality.
 
 ## Skills I'm Exploring
