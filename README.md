@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+Python;And+I+am+a+beginner+Python+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+Python;I+am+a+beginner+Python+developer.)](https://git.io/typing-svg)
 
 ## About Me
 My name is Elena (Helen), and after many years of working in a job I didn’t love, I’ve decided it’s time for a change. This wasn’t a spontaneous decision—it grew slowly out of the realization that my current field never brought me true satisfaction.
