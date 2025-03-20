@@ -20,7 +20,7 @@ I’ve studied and am familiar with the following technologies, though I’m sti
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ### Other
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL%20(in_progress)-4479A1?style=flat&logo=postgresql&logoColor=white) ![Docker (in progress)](https://img.shields.io/badge/-Docker%20(in_progress)-2496ED?style=flat&logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL%20-4479A1?style=flat&logo=postgresql&logoColor=white) ![Docker (in progress)](https://img.shields.io/badge/-Docker%20(in_progress)-2496ED?style=flat&logo=docker&logoColor=white) 
 
 ![Third-party APIs](https://img.shields.io/badge/-Third_party_APIs-6E40C9?style=flat&logo=apiblueprint&logoColor=white) ![HTTP Requests](https://img.shields.io/badge/-HTTP_Requests-EA580C?style=flat&logo=httpie&logoColor=white) ![Requests Library](https://img.shields.io/badge/-Requests-FF5733?style=flat&logo=python&logoColor=white)
   
