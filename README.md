@@ -38,7 +38,7 @@ Unfortunately, I haven’t worked on any real-world projects yet, so I’d like 
 - [GeminiExercise](https://github.com/itprogerspain/GeminiExercise) - A beginner project to practice Python fundamentals, Git basics, and interacting with third-party APIs for large language models (LLMs).  
 - [Aeropuerto](https://github.com/itprogerspain/Aeropuerto) - A Python application that manages the assignment of slots for flights at an airport.
 - [FirstBlogDjangoProject](https://github.com/itprogerspain/FirstBlogDjangoProject) - A comprehensive Django blog application with a modern tech stack.
-- [Blog2cbvProjectDjango](https://github.com/itprogerspain/Blog2cbvProjectDjango) - A comprehensive Django blog application with a modern tech stack.
+- [Blog2cbvProjectDjango](https://github.com/itprogerspain/Blog2cbvProjectDjango) - Django Blog is a complete web application developed with Django using Class-Based Views.
 - More projects in progress!
 
 ## Let’s Connect
