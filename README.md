@@ -37,7 +37,7 @@ Unfortunately, I haven’t worked on any real-world projects yet, so I’d like 
 - [FlaskEmployeeAPI](https://github.com/itprogerspain/FlaskEmployeeAPI) - A simple REST API built with Flask and Docker.  
 - [GeminiExercise](https://github.com/itprogerspain/GeminiExercise) - A beginner project to practice Python fundamentals, Git basics, and interacting with third-party APIs for large language models (LLMs).  
 - [Aeropuerto](https://github.com/itprogerspain/Aeropuerto) - A Python application that manages the assignment of slots for flights at an airport.
-- [Aeropuerto](https://github.com/itprogerspain/Aeropuerto)
+- [FirstBlogDjangoProject](https://github.com/itprogerspain/FirstBlogDjangoProject) - 
 - More projects in progress!
 
 ## Let’s Connect
