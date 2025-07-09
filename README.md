@@ -24,7 +24,7 @@ I’ve studied and am familiar with the following technologies, though I’m sti
 
 ![Third-party APIs](https://img.shields.io/badge/-Third_party_APIs-6E40C9?style=flat&logo=apiblueprint&logoColor=white) ![HTTP Requests](https://img.shields.io/badge/-HTTP_Requests-EA580C?style=flat&logo=httpie&logoColor=white) ![Requests Library](https://img.shields.io/badge/-Requests-FF5733?style=flat&logo=python&logoColor=white)
 
-![Selenium (in progress)](https://img.shields.io/badge/Selenium%20(in_progress)-43B02A?style=flat&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium%20(in_progress)-43B02A?style=flat&logo=selenium&logoColor=white)
 
   
 ## Tools I Use
