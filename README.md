@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+Python;I+am+a+beginner+Python+developer.)](https://git.io/typing-svg)
 
 ## About Me
-My name is Elena (Helen), and after many years of working in a job I didn’t love, I’ve decided it’s time for a change. This wasn’t a spontaneous decision—it grew slowly out of the realization that my current field never brought me true satisfaction.
-As a child, I dreamed of becoming a programmer, and it was Python tutorials on YouTube that reignited that spark. What started as a hobby quickly turned into a deep passion for programming. The more I explored Python, the more I understood that it’s not just a pastime—it’s something bigger. I realized I want to build my professional life around coding.
-Since starting my learning journey in December 2023, I’ve been actively studying Python and related technologies. I’m diving into the world of programming with enthusiasm, eager to unlock my potential and discover new opportunities in this exciting field.
-Every day, my passion for Python grows stronger, and I’m ready to pursue it wholeheartedly. My goal is to find professional fulfillment and succeed in this new career path. I believe my determination, experience, and love for learning will help me turn this dream into reality.
+My name is Elena (Helen), and after many years of searching for something truly meaningful, I discovered a passion that lights me up—programming. As a child, I dreamed of becoming a programmer, and it was Python tutorials on YouTube that reignited that spark. What began as a hobby quickly grew into a deep fascination with coding.
+
+Since starting my learning journey in December 2023, I’ve been actively studying Python and related technologies. The more I explore, the more I realize that programming is not just a pastime—it’s a lifelong pursuit. My goal is to keep learning, creating, and collaborating on personal projects with friends, turning ideas into real solutions and growing together as a team.
+
+Every day, my passion for Python grows stronger, and I’m excited to continue this journey, driven by curiosity, creativity, and the joy of building something meaningful.
 
 ## Skills I'm Exploring
 I’ve studied and am familiar with the following technologies, though I’m still building my practical experience:
