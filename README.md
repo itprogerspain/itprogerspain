@@ -9,10 +9,15 @@ My name is Elena (Helen). Programming has always been my dream, reignited by Pyt
 I’ve studied and am familiar with the following technologies, though I’m still building my practical experience:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,postgres,docker,postman,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,postgres,docker,postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+</p>
+
+### Development Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
